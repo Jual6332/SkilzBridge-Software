@@ -65,9 +65,9 @@ job2.set_company_name("Burnout Brands")
 job2.add_skill_to_list("Scalability")
 
 job3 = JobPosting()
-job3.set_title("")
-job3.set_company_name("Software Developer")
-job3.add_skill_to_list("TherapyNotes.com")
+job3.set_title("Software Developer")
+job3.set_company_name("TherapyNotes.com")
+job3.add_skill_to_list("")
 
 job4 = JobPosting()
 job4.set_title("Sr. QNXT Developer")
